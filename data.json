@@ -1,0 +1,45 @@
+{
+  "career":{
+    "info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+  },
+  "education":[
+    {
+      "degree":"B-Tech(Computer Science and engineering)",
+      "institute":"Siddarth Instituteof Engineering & Technology",
+      "data":["2015-19","74%"]
+    },
+  {
+    "degree":"intermediate(mpc)",
+    "institute":"vivekananda jr college",
+    "data":["2013-15","92%"]
+  },
+  {
+    "degree":"ssc",
+    "institute":"vidya mandhir",
+    "data":["2012-13","92%"]
+  }
+],
+"skills":[
+  {
+    "title":"programminglanguage",
+    "set":["c","java"]
+  },
+  {
+    "title":"web technology",
+    "set":["html","css","js"]
+  },
+  {
+    "title":"database",
+    "set":["oracle","sql","mysql"]
+  },
+  {
+    "title":"operating system",
+    "set":["window","linux","dos"]
+  }
+],
+"achievements":[
+  {
+    "achievedData":"got 1<super>st</super>prize in ppt presentation"
+  }
+]
+}
